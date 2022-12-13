@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <h2>This is Footer Section</h2>
+        <div className='fixed bottom-0'>
+            <p className=''>All Rights are Reserved by Tuhin Shuvra © Copyright 2022</p>
         </div>
     );
 };
